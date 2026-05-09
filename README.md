@@ -10,4 +10,4 @@ An end-to-end data analytics project where I downloaded a retail orders dataset 
 2. Top 5 highest selling products in each region
 3. Month over month sales growth comparison - 2022 vs 2023
 4. For each category, which month had the highest sales
-5. Which sub-category had the highest profit growth in 2023 compared to 2022
+5. Which sub-category had the highest profit growth in 2023 compared to 2022..
